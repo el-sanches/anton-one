@@ -1,0 +1,12 @@
+/* TEAM */
+  Developer: Sergey Glazov
+  Site:      https://sglazov.ru
+  Mail:      github@sglazov.ru
+  Github:    https://github.com/sglazov
+  Location:  Russia
+
+/* SITE */
+  CMS:
+  Language:
+  Environment: HTML, CSS, JavaScript
+  Software:
